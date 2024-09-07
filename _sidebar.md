@@ -1,4 +1,4 @@
-* [金融理财](SUMMARY.md)
+* [金融理财](README.md)
 * 资产
   * [股票](asset/stock.md)
   * [基金](asset/fund.md)
