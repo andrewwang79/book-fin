@@ -27,21 +27,21 @@
 | - | - | - | - | - | - |
 | [盈透](https://www.interactivebrokers.com/) | / | / | 港币：FPS。<br>美元：汇款。wise帐户转账，在网页端操作 |  |
 | [第一证券](https://www.firstrade.com/) | / | / | 同盈透 |  |
-| 长桥香港 | [港股](https://support.longbridgehk.com/topics/1dc1l7t/1ccyl0x), [美股](https://support.longbridgehk.com/topics/1dc1l7t/2yucafb) | 入资1万港币享受港美股终身免佣金，累计入资2万港币（2500美金）有400现金卡 | [入金指引](https://support.longbridgehk.com/topics/4jvueun/41fajdm?locale=zh-CN) | 适合美股 |
+| 长桥香港 | [港股](https://support.longbridgehk.com/topics/1dc1l7t/1ccyl0x), [美股](https://support.longbridgehk.com/topics/1dc1l7t/2yucafb) | 入资1万港币享受港美股终身免佣金，累计入资2万港币（2500美金）有400现金卡 | [入金指引](https://support.longbridgehk.com/topics/4jvueun/41fajdm?locale=zh-CN) | 适合美国 |
 | 盈立 | [官方](https://www.usmart.hk/zh-cn/charges) | 只有香港人有免佣 | 同长桥香港 | 套路多，弃用 |
-| 尊嘉 | TODO | / | 同长桥香港 | 适合港股 |
+| 尊嘉 | / | / | 同长桥香港 | 适合美国和香港 |
 
 ### 费用
 * [港股佣金](https://www.zhihu.com/question/382642027)
 * 港股大头还有印花税，每股大头还有交收费
 
-| 券商 | 港股(佣金) | 港股(平台费) | 港股ETF(佣金) | 港股ETF(平台费) | 美股(佣金) | 美股(平台费) |
+| 券商 | 港股(佣金) | 港股(平台费) | 港股ETF | 美股(佣金) | 美股(平台费) | 美股ETF |
 | - | - | - | - | - | - | - | - |
-| 盈透PRO |  |  |  |  |  | 0.005/股(1美元-1%)，ETF是0 |
-| 第一证券 | 0 |  |  |  | 0 |  |
-| 长桥香港 | 0 | 15/笔 |  |  | 0 | 0.005/股(最低1) |
-| 盈立 | 0.03% | 12/笔  |  |  | 0 | 0.009/股(1.88美元-1%) |
-| 尊嘉 | 0 | 1/笔  |  |  | 0 | 0.00？/股(最低1) |
+| 盈透PRO |  |  |  |  | 0.005/股(1美元-1%) | 0 |
+| 第一证券 | 不支持 | 不支持 | 不支持 | 0 | 0 | 0 |
+| 长桥香港 | 0 | 15/笔 | 同股票，不收印花税 | 0 | 0.005/股(最低1) | 同股票 |
+| 盈立 | 0.03% | 12/笔  | / | 0 | 0.009/股(1.88美元-1%)  | / |
+| 尊嘉 | 0 | 1/笔  | 同股票，不收印花税 | 0 | 1，无论股数 | 同股票 |
 
 ### 券商出入金
 * 港币：FPS/eDDA。[FPS快捷入金/eDDA/银证转账的区别](https://xueqiu.com/1532246163/158421767): FPS是转账，EDDA是基于FPS的自动扣款
