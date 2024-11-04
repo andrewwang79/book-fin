@@ -49,6 +49,7 @@
 * [指数基金，LOF、ETF、ETF联接](https://www.zhihu.com/question/283131851)
 
 ### 基金
+* [中国宽基指数](https://xueqiu.com/3951090421/285607106)
 * [纳斯达克指数](https://www.nasdaq.com/)
 * 标普500指数
 ![](../s/asset/SP500.jpeg)

@@ -29,7 +29,7 @@
 | [第一证券](https://www.firstrade.com/) | / | / | 同盈透 |  |
 | 长桥香港 | [港股](https://support.longbridgehk.com/topics/1dc1l7t/1ccyl0x), [美股](https://support.longbridgehk.com/topics/1dc1l7t/2yucafb) | 入资1万港币享受港美股终身免佣金，累计入资2万港币（2500美金）有400现金卡 | [入金指引](https://support.longbridgehk.com/topics/4jvueun/41fajdm?locale=zh-CN) | 适合美国 |
 | 盈立 | [官方](https://www.usmart.hk/zh-cn/charges) | 只有香港人有免佣 | 同长桥香港 | 套路多，弃用 |
-| 尊嘉 | / | / | 同长桥香港 | 适合美国和香港 |
+| 尊嘉 | [官方](https://hk-t.zvstglobal.com/qa/three/267) | / | 同长桥香港 | 适合美国和香港 |
 
 ### 费用
 * [港股佣金](https://www.zhihu.com/question/382642027)
