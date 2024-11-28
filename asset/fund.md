@@ -36,12 +36,14 @@
 ### 国外美股
 * [美股ETF大全](https://zhuanlan.zhihu.com/p/138794355)
 
-| 类型 | 编码 | 费用 | 公司 | 说明 |
+| ETF分类 | 代号 | 费用 | 公司 | 说明 |
 | - | - | - | - | - |
-| 标普500ETF | IVV | 0.03% | 贝莱德(BlackRock)的iShares | IVW(标普500成长型增强)，IVE(标普500价值型增强) |
-| 标普500ETF | VOO | 0.03% | Vanguard(先锋) | VOOG(标普500成长型增强)，VOOV(标普500价值型增强) |
-| 标普500ETF | SPY | 0.09% | 道富 | 美股历史上的第一个ETF。SPLG(克隆版本)费用是0.02% |
-| 纳斯达克100ETF | QQQ | 0.2% | Invesco PowerShares |  |
+| 标普500 | IVV | 0.03% | 贝莱德(BlackRock)的iShares | IVW(标普500成长型增强)，IVE(标普500价值型增强) |
+| 标普500 | VOO | 0.03% | Vanguard(先锋) | VOOG(标普500成长型增强)，VOOV(标普500价值型增强) |
+| 标普500 | SPY | 0.09% | 道富 | 美股历史上的第一个ETF |
+| 标普500 | [SPLG](https://prd-ams.ssga.com/us/en/individual/etfs/spdr-portfolio-sp-500-etf-splg) | 0.02% | 道富 | 低手续费版本 |
+| 纳斯达克100 | [QQQ](https://www.invesco.com/us/financial-products/etfs/product-detail?productId=QQQ&ticker=QQQ&audienceType=investors) | 0.2% | Invesco PowerShares |  |
+| 道琼斯指数 | DIA |  |  |  |
 
 ## 资料
 ### 基础
@@ -54,6 +56,12 @@
 * [纳斯达克指数](https://www.nasdaq.com/)
 * 标普500指数
 ![](../s/asset/SP500.jpeg)
+
+### 分红
+> 左手倒右手，分红来自基金净值
+
+1. 现金分红: 无赎回费
+1. 红利再投: 无需申购费
 
 ### 套利
 * [介绍](https://caifuhao.eastmoney.com/news/20201203095328026297220)
