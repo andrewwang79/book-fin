@@ -4,5 +4,6 @@
   * [基金](asset/fund.md)
   * [债券](asset/bond.md)
 * [知识](kb/SUMMARY.md)
-  * [定投](kb/sip.md)
   * [开户](kb/launch.md)
+  * [定投](kb/dca.md)
+  * [逢低分批买入](kb/btd.md)
