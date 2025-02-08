@@ -120,3 +120,6 @@ Put的行权价：95元
 
 举例里触发追加保证金的"股价下跌率" = 1 - 1.5 * 30% = 55%
 ```
+
+## 工具
+* [深度挖掘美国公司信息的开源工具：EDGAR](https://mp.weixin.qq.com/s/zdT9hRPohZrTqZf9KFt4pA)
