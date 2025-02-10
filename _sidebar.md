@@ -7,3 +7,4 @@
   * [开户](kb/launch.md)
   * [定投](kb/dca.md)
   * [逢低分批买入](kb/btd.md)
+  * [国内低风险理财](kb/lrf.md)
