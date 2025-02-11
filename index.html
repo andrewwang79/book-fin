@@ -9,6 +9,7 @@
   <meta name="description" content="金融理财">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="https://me.wangyaqi.cn/docsify/themes/vue.css">
+  <script type="text/javascript" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </head>
 <body>
   <div id="app"></div>
@@ -75,6 +76,21 @@
   <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
   <!-- <script src="//unpkg.com/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"> -->
   <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+  <script>
+  window.$docsify = {
+    markdown: {
+      renderer: {
+        code: function (code, lang) {
+          if (lang === 'math') {
+            return '<div class="math">' + code + '</div>';
+          }
+          return this.origin.code.apply(this, arguments);
+        }
+      }
+    }
+  };
+</script>
+
   <span id="busuanzi_container_site_pv"> 总访问量 <span id="busuanzi_value_site_pv"></span> 次 </span>
   <span id="busuanzi_container_site_uv"> 总访客数 <span id="busuanzi_value_site_uv"></span> 人 </span>
 </body>
