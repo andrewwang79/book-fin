@@ -20,3 +20,8 @@
 
 ## misc
 * [复利](https://zhuanlan.zhihu.com/p/640504544)
+
+## 人
+* 段永平语录 : [1](https://xueqiu.com/6111380216/276223212), [2](https://xueqiu.com/6111380216/280692501), [3](https://xueqiu.com/6111380216/280855847)
+* 林园
+* 冯柳
