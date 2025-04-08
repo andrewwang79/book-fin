@@ -12,7 +12,7 @@
 
 ## 复权
 * [介绍](https://xueqiu.com/1998588836/166016810)
-![](../s/kb/adjustment.png)
+![](../s/kb/adjustment.jpg)
 
 ## 汇率
 * [中国银行中美汇率历史](https://www.kylc.com/huilv/d-boc-usd.html)
