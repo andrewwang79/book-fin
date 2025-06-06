@@ -22,6 +22,7 @@
 ## 知识
 * [财报发布日期](https://cn.investing.com/earnings-calendar/)
 * 公司回购股票(注销)：一种有效的提升股东价值的手段。回购股票减少了市场上的流通股数量 -> 提升EPS -> 降低PE -> 提升股价(维持PE不变)。
+* [国家金融状况指数（National Financial Conditions Index，NFCI）](https://fred.stlouisfed.org/series/NFCI), [NFCI和GDP](https://sc.macromicro.me/charts/54030/us-chicago-fed-nfci)
 
 ### 估值方法
 | 项 | 公式 | 使用 |
