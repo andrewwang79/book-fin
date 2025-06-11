@@ -3,6 +3,9 @@
   * [股票](asset/stock.md)
   * [基金](asset/fund.md)
   * [债券](asset/bond.md)
+  * [黄金](asset/gold.md)
+* 投资
+  * [长期价值投资](kb/ltvi.md)
   * [国内低风险理财](kb/lrf.md)
 * [知识](kb/SUMMARY.md)
   * [开户](kb/launch.md)
