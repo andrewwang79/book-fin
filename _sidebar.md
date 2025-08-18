@@ -10,6 +10,6 @@
   * [长期价值投资](invest/ltvi.md)
   * [定投](invest/dca.md)
   * [逢低分批买入](invest/btd.md)
-  * [移动止盈](invest/移动止盈.md)
+  * [移动止盈](invest/trailing_stop.md)
 * [知识](kb/SUMMARY.md)
   * [开户](kb/launch.md)
