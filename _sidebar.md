@@ -5,6 +5,7 @@
   * [定投](invest/dca.md)
   * [逢低分批买入](invest/btd.md)
   * [移动止盈](invest/trailing_stop.md)
+  * [新手入门](invest/begin.md)
 * [资产知识](kb/SUMMARY.md)
   * [开户](kb/launch.md)
   * [技术分析工具](kb/tool.md)
@@ -12,4 +13,4 @@
   * [基金](asset/fund.md)
   * [债券](asset/bond.md)
   * [黄金](asset/gold.md)
-  * [国内的低风险资产](asset/lrf.md)
+  * [中低风险资产](asset/lrf.md)
