@@ -7,7 +7,7 @@
   * [移动止盈](invest/trailing_stop.md)
   * [新手入门](invest/begin.md)
 * [资产知识](kb/SUMMARY.md)
-  * [开户](kb/launch.md)
+  * [开户和规则](kb/launch.md)
   * [技术分析工具](kb/tool.md)
 * [资产](asset/SUMMARY.md)
   * [基金](asset/fund.md)
