@@ -1,6 +1,6 @@
 * [经济规律](README.md)
 * [弱者体系](kb/wa.md)
-* [投资体系](invest/SUMMARY.md)
+* [投资](invest/SUMMARY.md)
   * [长期价值投资](invest/ltvi.md)
   * [定投](invest/dca.md)
   * [逢低分批买入](invest/btd.md)
